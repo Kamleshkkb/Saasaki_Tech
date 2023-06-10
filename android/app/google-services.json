@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633829189287",
+    "project_id": "authmodule-fb7c7",
+    "storage_bucket": "authmodule-fb7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633829189287:android:f8745c515ed8e58c899d82",
+        "android_client_info": {
+          "package_name": "com.saasaki.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633829189287-2vjd3hjhlpr41p3uoitrifkttomof46e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA2S_bphDaVUfaXDlJkw_S3aJQgubzGOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633829189287-2vjd3hjhlpr41p3uoitrifkttomof46e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
